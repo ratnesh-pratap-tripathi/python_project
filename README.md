@@ -18,7 +18,7 @@ This notebook performs exploratory data analysis (EDA) on an IFSC dataset using 
 - Add error handling when loading data.
 
 ## Suggested Project Structure
-```
+```plaintext
 project/
 ├── data/
 │   └── IFSC.csv
@@ -38,6 +38,6 @@ project/
 from pathlib import Path
 import pandas as pd
 
-DATA = Path("data/IFSC.csv")
+dATA = Path("data/IFSC.csv")
 df = pd.read_csv(DATA)
-```df = pd.read_csv(DATA)
+```
