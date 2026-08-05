@@ -41,4 +41,5 @@ import pandas as pd
 dATA = Path("data/IFSC.csv")
 df = pd.read_csv(DATA)
 ```
+## Project Infographic Image
 ![image_alt](https://github.com/ratnesh-pratap-tripathi/python_project/blob/b3bcfcead15dde53baacde33e589d1a3b4ad2b2b/img_python_2.png)
