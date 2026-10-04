@@ -2,6 +2,8 @@
 
 ## 1. Project Overview
 
+![image alt](https://github.com/ratnesh-pratap-tripathi/python_project/blob/8e25522d33f9ba1b42473262967733b6995fd016/Indian%20Prime%20Ministers%20Dataset%20Analysis/Indian_Prime_Ministers_Dataset_Analysis.png)
+
 This notebook performs a **Pandas-based data analysis** of an Indian Prime Ministers dataset.
 
 The original dataset is loaded from:
