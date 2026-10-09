@@ -5,6 +5,7 @@
 **Tools:** Python, Pandas, Matplotlib
 
 ---
+![image alt](https://github.com/ratnesh-pratap-tripathi/python_project/blob/6476942e397e7923dd14c4ae0b17c8152597960a/Business%20Analysis/Business_Performance_Financial_Metrics_Overview.png)
 
 ## 1. Project Overview
 
